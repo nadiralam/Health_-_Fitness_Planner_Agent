@@ -30,11 +30,10 @@ Follow the steps below to set up and run the application: Before anything else, 
 
 # Clone the Repository:
 
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/ai_agent_tutorials/ai_health_fitness_agent
+- git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+- cd awesome-llm-apps/ai_agent_tutorials/ai_health_fitness_agent
 # Install the dependencies
 
-# pip install -r requirements.txt
-Run the Streamlit app
-
-# streamlit run health_agent.py
+- pip install -r requirements.txt
+- Run the Streamlit app
+- streamlit run health_agent.py

@@ -22,15 +22,13 @@ The application requires the following Python libraries:
 
 - agno
 - google-generativeai
-- streamlit
+- Gradio
 Ensure these dependencies are installed via the requirements.txt file according to their mentioned versions
 
 # How to Run
 Follow the steps below to set up and run the application: Before anything else, Please get a free Gemini API Key provided by Google AI here: https://aistudio.google.com/apikey
 
 # Clone the Repository:
-
-- git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
 - cd awesome-llm-apps/ai_agent_tutorials/ai_health_fitness_agent
 # Install the dependencies
 
